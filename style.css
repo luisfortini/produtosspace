@@ -6,7 +6,7 @@
   border: 0;
   margin: 0;
   padding: 0;
-  font-family: 'lato', sans-serif;
+  font-family: 'inter',Arial, Helvetica, sans-serif, sans-serif;
 }
 header,
 .titulo {
@@ -72,7 +72,7 @@ h2 span {
   box-shadow: 0.5rem 0.5rem 0.5rem #d9d9d9;
 }
 p {
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 .desc-produto {
   width: 40%;
